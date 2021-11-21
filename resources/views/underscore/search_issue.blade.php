@@ -1,4 +1,4 @@
-<div class="" style="background:#9400D3; color:#fff"><center>Book Details</center></div>
+<div class="" style="background:#0C2876; color:#fff"><center>Book Details</center></div>
 <dl class="dl-horizontal">
     <dt>Book Name</dt>
     <dd><%= obj.book_name %></dd>
@@ -15,7 +15,7 @@
 <%
     if(obj.hasOwnProperty('student')){
 %>
-<div class="" style="background:#9400D3; color:#fff"><center>Student Details</center></div>
+<div class="" style="background:#0C2876; color:#fff"><center>Student Details</center></div>
 <dl class="dl-horizontal">
     <dt>Student ID</dt>
     <dd><%= obj.student.student_id %></dd>

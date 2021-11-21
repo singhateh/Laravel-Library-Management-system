@@ -26,7 +26,7 @@
 <body>
     <style>
         .module-head{
-            background-color: #9400D3;
+            background-color: #0C2876;
             color:#fff;
             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
             text-transform: uppercase;
@@ -37,14 +37,14 @@
         }
 
         .widget-menu{
-            background: #9400D3 !important;
+            background: #0C2876 !important;
             color:#fff;
             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
             text-transform: uppercase;
             font-style: bold;
         }
         .navbar-inner{
-            background: #9400D3 !important;
+            background: #0C2876 !important;
             color:#fff;
             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
             text-transform: uppercase;
@@ -67,11 +67,11 @@
 
             </div>
         </div>
-    </div>    
+    </div>
 </div>
 
     @include('layout.template_footer')
-    
+
 
 <script src="{{asset('static/scripts/jquery-1.9.1.min.js') }}" type="text/javascript"></script>
 <script src="{{asset('static/scripts/jquery-ui-1.10.1.custom.min.js') }}" type="text/javascript"></script>
@@ -88,7 +88,7 @@
 </script>
 
 <script>
-    $(document).ready(function(){ 
+    $(document).ready(function(){
     $("input").attr("autocomplete", "off");
 });
 </script>

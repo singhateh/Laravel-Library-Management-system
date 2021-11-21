@@ -1,4 +1,4 @@
-<div class="" style="background:#9400D3; color:#fff"><center>Student Details</center></div>
+<div class="" style="background:#0C2876; color:#fff"><center>Student Details</center></div>
 <dl class="dl-horizontal">
 <%
     var flag = false;
@@ -45,7 +45,7 @@
         if(obj.issued_books.length > 0){
 %>
 
-<div class="" style="background:#9400D3; color:#fff"><center>Issued Books' Details</center></div>
+<div class="" style="background:#0C2876; color:#fff"><center>Issued Books' Details</center></div>
 
 <%
             for(var book in obj.issued_books){

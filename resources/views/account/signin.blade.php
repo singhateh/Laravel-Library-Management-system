@@ -17,7 +17,7 @@
 								<input class="span12" type="text" name="username" placeholder="Username" value="{{ Request::old('login') }}" autofocus>
 								@if($errors->has('user_login'))
 									{{ $errors->first('login')}}
-								@endif									
+								@endif
 							</div>
 						</div>
 						<div class="control-group">
@@ -25,7 +25,7 @@
 								<input class="span12" type="password" name="password" placeholder="Password">
 								@if($errors->has('password'))
 									{{ $errors->first('password')}}
-								@endif									
+								@endif
 							</div>
 						</div>
 					</div>
@@ -38,7 +38,7 @@
 								</label>
 							</div>
 						</div>
-						<a href="{{ URL::route('account-create') }}">New librarian? Sign Up</a>
+{{--						<a href="{{ URL::route('account-create') }}">New librarian? Sign Up</a>--}}
 					</div>
 				</form>
 			</div>

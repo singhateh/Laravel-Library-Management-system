@@ -27,7 +27,7 @@
 
     <style>
         .module-head{
-            background-color: #9400D3;
+            background-color: #0C2876;
             color:#fff;
             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
             text-transform: uppercase;
@@ -38,14 +38,14 @@
         }
 
         .widget-menu{
-            background: #9400D3 !important;
+            background: #0C2876 !important;
             color:#fff;
             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
             text-transform: uppercase;
             font-style: bold;
         }
         .navbar-inner{
-            background: #9400D3 !important;
+            background: #0C2876 !important;
             color:#fff;
             font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
             text-transform: uppercase;
@@ -75,7 +75,7 @@
 </script>
 
 <script>
-        $(document).ready(function(){ 
+        $(document).ready(function(){
         $("input").attr("autocomplete", "off");
     });
 </script>
