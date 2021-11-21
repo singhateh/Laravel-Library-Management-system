@@ -4,7 +4,7 @@
 <div class="content">
     <div class="btn-controls">
         <div class="btn-box-row row-fluid" >
-            <button class="btn-box span12" style="background: #9400D3; ">
+            <button class="btn-box span12" style="background: #0C2876; ">
                 <b style="color:#fff">Online Library Management System</b>
             </button>
         </div>
@@ -37,7 +37,7 @@
                                     <textarea class="span12" rows="2"></textarea>
                                 </div>
                                 <div class="span3">
-                                    <a class="btn homepage-form-submit " style="background-color:  #9400D3; color:#fff"><i class="icon-search"></i> Search</a>
+                                    <a class="btn homepage-form-submit " style="background-color:  #0C2876; color:#fff"><i class="icon-search"></i> Search</a>
                                 </div>
                             </div>
                         </div>
@@ -58,7 +58,7 @@
                     </table>
                 </div>
             </div>
-            
+
             <div class="module" style="display: none;">
                 <div class="module-body">
                     <form class="form-horizontal row-fluid" id="findissueform">
@@ -66,7 +66,7 @@
                             <label class="control-label">Enter Book ID</label>
                             <div class="controls">
                                 <input type="number" placeholder="" class="span9">
-                                <a class="btn homepage-form-submit" style="background-color:  #9400D3; color:#fff"><i class="icon-search"></i> Search</a>
+                                <a class="btn homepage-form-submit" style="background-color:  #0C2876; color:#fff"><i class="icon-search"></i> Search</a>
                             </div>
                         </div>
                     </form>
@@ -81,7 +81,7 @@
                             <label class="control-label">Enter Student ID</label>
                             <div class="controls">
                                 <input type="text" placeholder="" class="span9">
-                                <a class="btn homepage-form-submit" style="background-color:  #9400D3; color:#fff"><i class="icon-search"></i> Search</a>
+                                <a class="btn homepage-form-submit" style="background-color:  #0C2876; color:#fff"><i class="icon-search"></i> Search</a>
                             </div>
                         </div>
                     </form>
